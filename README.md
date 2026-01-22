@@ -1,66 +1,81 @@
-<h1 align="center">Hi, I'm Aman Vaibhav 👋</h1>
-<h3 align="center">Web Developer • Problem Solver • Computer Engineering Student @ AIT Pune</h3>
+<h1 align="center">
+  Hi, I'm Aman Vaibhav 👋
+</h1>
 
 <p align="center">
-  <em>Building the web, one clean commit at a time.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web+Developer;Problem+Solver;Computer+Engineering+Student+@+AIT+Pune;Always+Building%2C+Always+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-🎓 Computer Engineering student at **Army Institute of Technology (AIT), Pune**  
-💻 Passionate about **modern web development** and engineering fundamentals  
-🌐 Active member of the **Innovation & Entrepreneurship Cell (I&E), AIT**  
-🧠 Curious about startups, scalable products, and tech-for-impact  
-🌱 Constantly learning, building, and improving through real projects  
-👯 Open to collaborating on **open-source projects and hackathons**  
+🎓 **Computer Engineering student** at Army Institute of Technology (AIT), Pune  
+💻 Building modern, interactive web experiences  
+🌐 Active member of **Innovation & Entrepreneurship Cell (I&E), AIT**  
+🧠 Curious about startups, scalable products & real-world impact  
+🌱 Leveling up daily through projects and problem-solving  
+👯 Open to **open-source collaborations & hackathons**  
 
-📫 **Reach me:** amanvaibhav109@gmail.com  
-🔗 **Connect:** LinkedIn  
+📫 **Email:** amanvaibhav109@gmail.com  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-vaibhav-30b050375/)
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Responsive & component-based UI development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### 🧠 Programming & CS Foundations  
-- C++ (Data Structures & Problem Solving)  
-- Python (logic, scripting, experimentation)  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
 
 ### 🔧 Tools  
-- Git & GitHub  
-- VS Code  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-> _Strong fundamentals today → scalable systems tomorrow._
+> ⚡ *Foundations first. Scale follows.*
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanvaibhav162&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvaibhav162&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanvaibhav162&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvaibhav162&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanvaibhav162&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect  
 
-I enjoy connecting with developers, founders, and students who love  
-**building things, solving problems, and shipping ideas**.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-vaibhav-30b050375/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:amanvaibhav109@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
 
 ---
 
-⭐ *If you like my work, consider starring a repository — it genuinely helps.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+⭐ *If something here impressed you — a star on a repo goes a long way.*
