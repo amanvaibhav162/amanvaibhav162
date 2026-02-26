@@ -14,40 +14,40 @@
 
 ## 🚀 About Me  
 
-🎓 **Computer Engineering student** at Army Institute of Technology (AIT), Pune  
-💻 Building modern, interactive web experiences  
-🌐 Active member of **Innovation & Entrepreneurship Cell (I&E), AIT**  
-🧠 Curious about startups, scalable products & real-world impact  
-🌱 Leveling up daily through projects and problem-solving  
-👯 Open to **open-source collaborations & hackathons**  
+ **Computer Engineering student** at Army Institute of Technology (AIT), Pune  
+ Building modern, interactive web experiences  
+ Active member of **Innovation & Entrepreneurship Cell (I&E), AIT**  
+ Curious about startups, scalable products & real-world impact  
+ Leveling up daily through projects and problem-solving  
+ Open to **open-source collaborations & hackathons**  
 
-📫 **Email:** amanvaibhav109@gmail.com  
-🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-vaibhav-30b050375/)
+ **Email:** amanvaibhav109@gmail.com  
+ **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-vaibhav-30b050375/)
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
-### 💻 Frontend  
+### Frontend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🧠 Programming & CS Foundations  
+### Programming & CS Foundations  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python" />
 </p>
 
-### 🔧 Tools  
+### Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-> ⚡ *Foundations first. Scale follows.*
+> *Foundations first. Scale follows.*
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanvaibhav162&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🤝 Let’s Connect  
+## Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-vaibhav-30b050375/" target="_blank">
