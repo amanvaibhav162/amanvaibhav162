@@ -11,11 +11,6 @@
  Leveling up daily through projects and problem-solving  
  Open to **open-source collaborations & hackathons**  
 
- **Email:** amanvaibhav109@gmail.com  
- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-vaibhav-30b050375/)
-
-
-
 ## Tech Stack  
 
 ### Frontend  
@@ -33,16 +28,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-> *Foundations first. Scale follows.*
-
-
-
 ## GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanvaibhav162&theme=radical&hide_border=true"/>
 </p>
-
-
 
 ## Let’s Connect  
 
