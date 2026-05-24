@@ -38,12 +38,6 @@
 
 
 ## GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanvaibhav162&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvaibhav162&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanvaibhav162&theme=radical&hide_border=true"/>
 </p>
