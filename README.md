@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi, I'm Aman Vaibhav 
 </h1>
----
 
 ## About Me  
 
@@ -15,7 +14,7 @@
  **Email:** amanvaibhav109@gmail.com  
  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-vaibhav-30b050375/)
 
----
+
 
 ## Tech Stack  
 
@@ -36,7 +35,7 @@
 
 > *Foundations first. Scale follows.*
 
----
+
 
 ## GitHub Analytics  
 
@@ -49,7 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanvaibhav162&theme=radical&hide_border=true"/>
 </p>
 
----
+
 
 ## Let’s Connect  
 
@@ -62,11 +61,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-⭐ *If something here impressed you — a star on a repo goes a long way.*
