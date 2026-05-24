@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Aman Vaibhav 👋
+  Hi, I'm Aman Vaibhav 
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
  **Computer Engineering student** at Army Institute of Technology (AIT), Pune  
  Building modern, interactive web experiences  
@@ -26,7 +26,7 @@
 
 ---
 
-##  Tech Stack  
+## Tech Stack  
 
 ### Frontend  
 <p align="left">
