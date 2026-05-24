@@ -1,15 +1,6 @@
 <h1 align="center">
   Hi, I'm Aman Vaibhav 
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web+Developer;Problem+Solver;Computer+Engineering+Student+@+AIT+Pune;Always+Building%2C+Always+Learning" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
-
 ---
 
 ## About Me  
