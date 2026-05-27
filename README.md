@@ -1,5 +1,10 @@
 # Building projects....
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanvaibhav162&theme=github-compact&hide_border=true" />
+
+</div>
 ---
 
 # 🛠 Tech Stack
@@ -33,12 +38,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanvaibhav162&theme=github-compact&hide_border=true" />
-
-</div>
 
 <div align="center">
 
