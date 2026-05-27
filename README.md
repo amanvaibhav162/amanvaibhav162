@@ -8,7 +8,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,java" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c" />
 
 ### Frontend
 
