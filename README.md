@@ -35,8 +35,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanvaibhav162&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
@@ -51,27 +49,11 @@
 
 </div>
 
-# Contribution Graph
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanvaibhav162&theme=github-compact&hide_border=true" />
 
 </div>
-
----
-
-# Philosophy
-
-```cpp
-while(!success) {
-    learn();
-    build();
-    improve();
-}
-```
-
----
 
 <div align="center">
 
