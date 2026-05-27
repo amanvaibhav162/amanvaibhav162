@@ -1,46 +1,80 @@
-<h1 align="center">
-  Hi, I'm Aman Vaibhav 
-</h1>
+# Hi, I'm Aman
 
-## About Me  
+<div align="center">
 
- **Computer Engineering student** at Army Institute of Technology (AIT), Pune  
- Building modern, interactive web experiences  
- Active member of **Innovation & Entrepreneurship Cell (I&E), AIT**  
- Curious about startups, scalable products & real-world impact  
- Leveling up daily through projects and problem-solving  
- Open to **open-source collaborations & hackathons**  
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+AI+Developer;Building+Projects+That+Actually+Matter;Learning+Systems+Programming+%26+AI" />
 
-## Tech Stack  
+<br/>
 
-### Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
 
-### Programming & CS Foundations  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
-</p>
+</div>
 
-### Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+---
+# Tech Stack
 
-## GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanvaibhav162&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
 
-## Let’s Connect  
+### Languages
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-vaibhav-30b050375/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:amanvaibhav109@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,ht" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,postgres,mongodb,prisma" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,postman" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanvaibhav162&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+# Philosophy
+
+```cpp
+while(!success) {
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+<div align="center">
+
+### "Build. Break. Learn. Repeat."
+
+</div>
