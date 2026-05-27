@@ -45,18 +45,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvaibhav162&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanvaibhav162&theme=github-compact&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 ### "Build. Break. Learn. Repeat."
 
 </div>
