@@ -5,7 +5,6 @@
 <img src="https://github-act-graph.rodriaum.com/graph?username=amanvaibhav162&theme=github-compact&hide_border=true" />
 
 </div>
----
 
 # 🛠 Tech Stack
 
